@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="m1">You have not subscribed.</string>
+    <string name="m2">For subscription click here</string>
+    <string name="p1">Select the packs you want</string>
+    <string name="p2">This one costs $20 for ONE month.</string>
+    <string name="p3">This one costs $50 for THREE months.</string>
+    <string name="p4">This one costs $80 for SIX month.</string>
+    <string name="p5">This one costs $120 for ONE YEAR.</string>
+    <string name="s">Descrption about the Activity</string>
+    <string name="f">This actitvity show all the favourite songs</string>
+    <string name="om">This activity is for Online Music</string>
+    <string name="pl">This activity show all the Playlists</string>
+    <string name="ms">This activity show all the songs</string>
+    <string name="p">This activity is for payment for subscription</string>
+    <string name="ps">This activity gives the flow of song</string>
+    <string name="plone">This activity shows the songs in playlist one</string>
+    <string name="mds">This is the main activity which leads to all other activities</string>
+    <string name="lib1">Before you get started, review the following prerequisites:</string>
+    <string name="lib2">Your device must have Google Play services version 11.4.x or higher installed</string>
+    <string name="lib3">Install the Google Pay app and add a payment method</string>
+    <string name="lib4">Add a payment method to Google</string>
+    <string name="lib5">Adhere to our Google Pay API Acceptable Use Policy and the Google Play developer policy</string>
+    <string name="lib6">Imports the dependency</string>
+    <string name="lib7">To develop an app using the Google Play services APIs, you need to set up your project with the Google Play services SDK, which is available from the Google maven repository.
+        To test your app when using the Google Play services SDK, you must use either:
+A compatible Android device that runs Android 4.0 or higher and includes Google Play Store.
+The Android emulator with an AVD that runs the Google APIs platform based on Android 4.2.2 or higher.</string>
+    <string name="lib8">Add Google Play Services to Your Project</string>
+    <string name="lib9">1.Open the build.gradle file inside your application module directory.</string>
+    <string name="lib10">2.Add a new build rule under dependencies for the latest version of play-services, using one of the APIs listed below.</string>
+    <string name="lib11">3.Ensure that your top-level build.gradle contains a reference to the google() repo or to maven { url "https://maven.google.com" }.</string>
+    <string name="lib12">4.Save the changes, and click Sync Project with Gradle Files in the toolbar.</string>
+    <string name="lib13">*You can now begin developing features with the Google Play services APIs.</string>
+</resources>
